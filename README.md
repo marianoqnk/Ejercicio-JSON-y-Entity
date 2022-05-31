@@ -1,5 +1,8 @@
 # Ejercicio-JSON-y-Entity
 Un ejercicio para práticar.  
+Primero creamos una nueva rama de este proyecto desde nuestro GitHub. Una vez tenemos la rama la clonamos en nuestro ordenador y realizamos la práctica.
+Una vez terminado hacemos un pull requests para integrarla en este proyecto.  
+  
 Se trata de crear una aplicación de consola en la cual vamos a  hacer lo siguiente:  
 - [ ] Leer los usuarios desde un fichero JSON que se encuentra en: 
 https://jsonplaceholder.typicode.com/users  
@@ -9,4 +12,4 @@ https://jsonplaceholder.typicode.com/users
 - [ ] Relacionar ambas tabla de forma que en lugar de aparecer userId:1 aparezca los apellidos,nombre de los usuarios.
 - [ ] Hacer el CRUD para la base de datos.  
 
-Aspirantes, teneis  120 minutos para realizarlo y no queremos chapuzas en este taller.
+Aspirantes, teneis  1200 minutos para realizarlo y no queremos chapuzas en este taller.
