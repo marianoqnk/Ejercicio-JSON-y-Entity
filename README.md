@@ -1,6 +1,6 @@
 # Ejercicio-JSON-y-Entity
 Un ejercicio para práticar.  
-Primero creamos una nueva rama de este proyecto desde nuestro GitHub. Una vez tenemos la rama la clonamos en nuestro ordenador y realizamos la práctica.
+Primero creamos un fork de este proyecto desde nuestro GitHub. Una vez tenemos el fork lo clonamos en nuestro ordenador. Luego creamos una nueva rama que será sobre la que trabajaremos  y realizamos la práctica.
 Una vez terminado hacemos un pull requests para integrarla en este proyecto.  
   
 Se trata de crear una aplicación de consola en la cual vamos a  hacer lo siguiente:  
